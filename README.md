@@ -1,1 +1,2 @@
 # Java-OOP-Volunteering-System
+The Volunteering Opportunity System is designed to bridge the gap between volunteers and organizations, making it easier for volunteers to find suitable opportunities and for organizers to manage applications and feedback. Key functionalities include volunteer registration, opportunity creation, application management, and feedback review, all facilitated through an intuitive interface.
